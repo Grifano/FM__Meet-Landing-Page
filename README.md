@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 <!-- - Solution URL: [Solution]() -->
-- Live Site URL: [Live](https://grifano.github.io/FrontendMentor__Meet-Landing-Page/)
+- Live Site URL: [Live](https://grifano.github.io/FM__Meet-Landing-Page/)
 
 ## My process
 
